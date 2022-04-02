@@ -9,4 +9,4 @@ phases:
     - echo "Deploying to the Lambda"
 artifacts:
   files:
-    - '**/**'
+    - '**/*'
